@@ -1,0 +1,33 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.*;
+      
+      public class Main {
+          public static void main(String[] args) {
+              // write your code here
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3795#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #3 of 9. Maybe you forgot about zeros as incomes or zeros as percents?
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    3
+    50 100 300
+    100 20 0
+    Correct output:
+    1
+
+    Your code output:
+    3
+  time: "Mon, 10 Jul 2023 14:25:03 UTC"
+record: -1
+submission_language: java17
